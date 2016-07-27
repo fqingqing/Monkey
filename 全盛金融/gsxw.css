@@ -1,0 +1,165 @@
+.clear{
+	content: "";
+	display: block;
+	clear: both;
+}
+div,ul,li,i,span,a{
+	margin:0;
+	padding:0;
+}
+.all{
+	width: 1920px;
+	height: 1540px;
+}
+.center{
+	width: 1358px;
+	height: 1172px;
+	border: 1px red solid;
+	position: relative;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: 0 auto;
+	font-family: "微软雅黑";
+	
+}
+.center_0{
+	width: 1358px;
+	height: 205px;
+	overflow: hidden;
+	background: url(img/gsxw_img.png) no-repeat;
+}
+.center_1{
+	width: 1219px;
+	height: 897px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 170px;
+	bottom: 0px;
+	margin: 0 auto;
+}
+.center_1_u{
+	float: left;
+	width: 328px;
+	height: 897px;
+	list-style: none;
+}
+.center_1_u li{
+	width: 328px;
+	height: 127px;
+	background: #9b9a9a;
+	color: #f4f4f4;
+	border-bottom: 1px #7c7c7c solid;
+}
+.center_1_l1 span{
+	display: block;
+	margin-left: 75px; 
+}
+.center_1_l1sp1{
+	font-size: 24px;
+	padding-top: 43px;
+}
+.center_1_l1sp2{
+	font-size: 16px;
+}
+.center_1_l2 span{
+	display: block;
+}
+.center_1_l2sp1{
+	font-size: 20px;
+	padding-top: 36px;
+	margin-left: 152px;
+}
+.center_1_l2sp2{
+	font-size: 18px;
+	margin-left: 129px;
+}
+.center_2{
+	float: left;
+	width: 891px;
+	height: 897px;
+}
+.center_2_u1{
+	list-style: none;
+	width: 891;
+	height: 128px;
+}
+.center_2_l1{
+	float: left;
+	width: 296px;
+	height: 128px;
+	color: #f4f4f4;
+	background: #edd3a3;
+	border-right: 1px #e0c086 solid;
+}
+.center_2_l1:hover{
+	background: #e60012;
+}
+.center_2_l1 span{
+	display: block;
+	margin-left: 75px; 
+}
+.center_2_u2{
+	list-style: none;
+	margin-top: 18px;
+	margin-left: 45px;
+	width: 846px;
+	height: 751px;
+}
+.center_2_l2{
+	width: 846px;
+	height: 170px;
+	border-bottom: 1px #e1e1e1 solid;
+}
+.center_2_l4{
+	width: 846px;
+	height: 170px;
+}
+.center_2_sp1{
+	display: block;
+	padding-top: 20px;
+	font-size: 18px;
+	color: #434343;
+}
+.center_2_p1{
+	font-size: 14px;
+	color: #9b9b9b;
+}
+.center_2_l2 i,.center_2_l4 i {
+	display: inline-block;
+}
+.center_2_i1
+{
+	width: 51px;
+	height: 22px;
+	background: url(img/gsxw_but1.png) no-repeat;
+}
+.center_2_i2
+{
+	width: 79px;
+	height: 14px;
+	margin-left: 13px;
+	background: url(img/gsxw_but2.png) no-repeat;
+}
+.center_2_a1{
+	display: inline-block;
+	width: 36px;
+	height: 35px;
+	margin-left: 654px;
+	background: url(img/gsxw_but3.png) no-repeat;
+}
+.center_2_a2{
+	display: block;
+	width: 203px;
+	height: 53px;
+	border: 1px #e60012 solid;
+	font-size: 18px;
+	color: #e60012;
+	text-decoration: none;
+	text-align: center;
+	line-height: 53px;
+	margin-left: 369px;
+
+}
